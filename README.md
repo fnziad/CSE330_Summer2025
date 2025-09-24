@@ -125,7 +125,5 @@ This repository contains course materials from CSE330 Numerical Methods. The ass
 ---
 
 **Course Completed**: Summer 2025  
-**Repository Created**: [Current Date]  
-**Last Updated**: [Current Date]
 
 _This repository serves as a comprehensive archive of my numerical methods coursework and demonstrates practical application of computational mathematics concepts._
